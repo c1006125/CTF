@@ -1,0 +1,6 @@
+Welcome to the Introduction Challenge!
+
+It's not very much a challenge, but rather a way for you to test the whole process. Just copy the flag you will find in the file 'flag.txt' into the flag server, as indicated on Canvas, et voila!
+
+If it's not working, please either a question on Discourse or bring it up during the practicas.
+

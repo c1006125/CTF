@@ -1,0 +1,1 @@
+You should be able to solve this challenge by simply reading carefully the HTML page provided (modified from Wikipedia) about Stuxnet, a fascinating attack. It is particularly important you read the introduction! 
