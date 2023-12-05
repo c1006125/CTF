@@ -1,0 +1,16 @@
+A possible French translation for ' or '1' = '1 is: salut
+
+A possible French translation for ' or '1' = '1 is: pain
+
+A possible French translation for ' or '1' = '1 is: baguette
+
+A possible French translation for ' or '1' = '1 is: drapeau
+
+A possible French translation for ' or '1' = '1 is: voiture
+
+A possible French translation for ' or '1' = '1 is: table
+
+A possible French translation for ' or '1' = '1 is: beurre
+
+flag{spbdvtb}
+flag{hbwfctb}
