@@ -1,5 +1,7 @@
 <img src="1" onerror=location.href="secureztwKu98O.php";></img>
 
+' UNION SELECT * FROM SecretyrHC01vSOK WHERE '1'='1
+
 
 A possible French translation for ' or '1' = '1 is: salut
 
